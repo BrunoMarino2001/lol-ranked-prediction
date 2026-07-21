@@ -1,4 +1,4 @@
-[README_CORRIGIDO.md](https://github.com/user-attachments/files/30239704/README_CORRIGIDO.md)
+[README_CORRIGIDO.md](https://github.com/user-attachments/files/30239802/README_CORRIGIDO.md)
 # 🎮 League of Legends — Previsão de Vitória em Ranked
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -57,39 +57,39 @@
 
 | Visão Geral | O Ouro Decide |
 |:-----------:|:-------------:|
-| ![g01](grafico_01_visao_geral.png) | ![g02](grafico_02_ouro_decide.png) |
+| ![g01](outputs/figures/grafico_01_visao_geral.png) | ![g02](outputs/figures/grafico_02_ouro_decide.png) |
 
 | Early Game | Perfil Vencedor |
 |:----------:|:---------------:|
-| ![g03](grafico_03_early_game.png) | ![g04](grafico_04_perfil_vencedor.png) |
+| ![g03](outputs/figures/grafico_03_early_game.png) | ![g04](outputs/figures/grafico_04_perfil_vencedor.png) |
 
 ### Pré-Processamento e PCA
 
 | Multicolinearidade | Variância PCA |
 |:-----------------:|:-------------:|
-| ![g05](grafico_05_multicolinearidade_vif.png) | ![g06](grafico_06_pca_variancia.png) |
+| ![g05](outputs/figures/grafico_05_multicolinearidade_vif.png) | ![g06](outputs/figures/grafico_06_pca_variancia.png) |
 
 ### K-Means — Perfis de Partida
 
 | Elbow + Silhouette | Perfil dos Clusters |
 |:------------------:|:-------------------:|
-| ![g07](grafico_07_elbow_silhouette.png) | ![g08](grafico_08_cluster_perfil.png) |
+| ![g07](outputs/figures/grafico_07_elbow_silhouette.png) | ![g08](outputs/figures/grafico_08_cluster_perfil.png) |
 
-![g09](grafico_09_silhouette_pca_scatter.png)
+![g09](outputs/figures/grafico_09_silhouette_pca_scatter.png)
 
 ### Batalha dos Modelos
 
-![g10](grafico_10_batalha_modelos.png)
+![g10](outputs/figures/grafico_10_batalha_modelos.png)
 
 | Duelos Diretos | Curva ROC + Ranking |
 |:--------------:|:-------------------:|
-| ![g11](grafico_11_duelos_roc.png) | ![g12](grafico_12_roc_ranking_tabela.png) |
+| ![g11](outputs/figures/grafico_11_duelos_roc.png) | ![g12](outputs/figures/grafico_12_roc_ranking_tabela.png) |
 
 ### Avaliação Final
 
 | Matriz de Confusão + ROC | Feature Importance |
 |:------------------------:|:-----------------:|
-| ![g13](grafico_13_confusao_report_roc.png) | ![g14](grafico_14_feature_importance.png) |
+| ![g13](outputs/figures/grafico_13_confusao_report_roc.png) | ![g14](outputs/figures/grafico_14_feature_importance.png) |
 
 ---
 

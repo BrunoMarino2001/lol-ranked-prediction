@@ -1,4 +1,4 @@
-[README_CORRIGIDO.md](https://github.com/user-attachments/files/30239689/README_CORRIGIDO.md)
+[README_CORRIGIDO.md](https://github.com/user-attachments/files/30239704/README_CORRIGIDO.md)
 # 🎮 League of Legends — Previsão de Vitória em Ranked
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
